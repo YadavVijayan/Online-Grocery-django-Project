@@ -1,6 +1,6 @@
-# 🛒 Online Grocery Django Project
+# Online Grocery Django Project
 
-## 📌 Project Description
+## Project Description
 The Online Grocery Management System is a web-based application developed using **Django Framework**.  
 It allows users to browse grocery products, manage carts, and place orders online.  
 The system also provides admin functionality to manage products, categories, and users.
@@ -9,7 +9,7 @@ This project is developed as part of an academic submission to demonstrate Djang
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 - Python 3
 - Django Framework
 - HTML, CSS, Bootstrap
@@ -18,7 +18,7 @@ This project is developed as part of an academic submission to demonstrate Djang
 
 ---
 
-## 📂 Project Features
+## Project Features
 - User Registration and Login
 - Product Listing
 - Category-wise Products
